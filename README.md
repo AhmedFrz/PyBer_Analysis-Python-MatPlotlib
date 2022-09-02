@@ -20,6 +20,8 @@ Table below shows
 
 ![](Images/total%20weekly%20fares%20of%20each%20type%20of%20city.png)
 
+![](Images/Total%20Fare%20by%20city%20type.png)
+
 
 
 ## Summary
