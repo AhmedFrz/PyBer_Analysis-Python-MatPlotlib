@@ -20,6 +20,9 @@ Table below shows
 
 ![](Images/total%20weekly%20fares%20of%20each%20type%20of%20city.png)
 
+Graph below shows linear trends of Total fare by city.
+Graph shows urban has the highest fare and this could be due to highest demand and opposite is true for rural cities
+
 ![](Images/Total%20Fare%20by%20city%20type.png)
 
 
