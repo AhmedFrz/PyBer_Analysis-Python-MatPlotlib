@@ -26,7 +26,7 @@ Graph shows urban has the highest fare and this could be due to highest demand a
 ![](Images/Summary.png)
 
 ![](Images/Total%20Fare%20by%20city%20type.png)
-
+.
 
 
 ## Summary
